@@ -581,3 +581,33 @@ URL https://github.com/maherabdelsamie/Active-Time-Hypothesis-Quantum-Signatures
 15. Sounas, L. \& Alu, A. Non-reciprocal photonics based on time modulation. Nature Photonics 11, 774–783 (2017).
 16. Shaltout, A., Kildishev, A. \& Shalaev, V. Time-varying metasurfaces and Lorentz nonreciproc- ity. Optical Materials Express 5, 2459–2459 (2015).
 17. Abdelsamie,  M. (2024).	Unifying Quantum Mechanics and General Relativity: The Role of Active Time in Gravitation (Version 1.0.0) [Computer software]. URL https://github.com/maherabdelsamie/Active-Time-Theory-Reinterpreting-Gravity.
+
+
+---
+# Installation
+The simulation is implemented in Python and requires the following libraries:
+- numpy
+- networkx
+- matplotlib
+- scikit-learn
+ 
+
+### Usage
+Run the simulation by executing the `main.py` file.
+```
+python main.py
+```
+
+## Run on Google Colab
+
+You can run this notebook on Google Colab by clicking on the following badge:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13xCybW1Qs2uB9AM2LPqf0DuuZwM9d2xg?usp=sharing)
+
+## License
+
+See the LICENSE.md file for details.
+
+## Citing This Work
+
+You can cite it using the information provided in the `CITATION.cff` file available in this repository.

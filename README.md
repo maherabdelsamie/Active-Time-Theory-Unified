@@ -541,7 +541,7 @@ Fig. 7 illustrates the progression of intrinsic time over the iterations of the 
 
 The simulation results collectively support the key principles of ATH, demonstrating the influential roles of the generative, directive, and adaptive faculties of time in shaping the dynamics and evolution of the simulated universe. The observed behaviors align with ATH's propositions, providing evidence for the active role of time in unifying quantum mechanics and fundamental physics. These findings contribute to our understanding of the fundamental nature of time and its relationship to the dynamics of the universe, opening up new avenues for further exploration and theoretical advancements in physics.
 
-#### 4.10. Emergent Gravity from Temporal Dynamics
+#### 4.9. Emergent Gravity from Temporal Dynamics
 
 The simulation results suggest a potential mechanism for the emergence of gravitational effects from the intrinsic temporal dynamics postulated by the Active Time Hypothesis (ATH). The modulation of time flow rates in response to local energy density, as described by the adaptive faculty of time in ATH, bears a striking resemblance to the curvature of spacetime in general relativity. This adaptive response implies an inherent coupling between the distribution and flow of mass-energy within the system and the local progression of time. The non-uniform temporal field observed in the simulated space, characterized by variations in time flow rates across different regions, parallels the concept of a gravitational field in classical physics.
 
@@ -549,13 +549,13 @@ The behavior of particles in response to localized changes in the intrinsic time
 
 This emergent behavior, arising solely from the temporal dynamics encoded within the simulation, suggests that the observed gravitational attraction may be a manifestation of time's intrinsic properties, as postulated by ATH. The ATH framework thus provides a foundation for interpreting gravity as an emergent phenomenon—a consequence of the active nature of time itself, rather than a fundamental force mediated by a separate gravitational field. These findings warrant further investigation into the potential of ATH to provide a unified understanding of gravity and its relation to the intrinsic properties of time.
 
-The simulation results, as depicted in the provided figures, support the emergent gravity interpretation. The PCA scree plot (Image 2) demonstrates a concentration of variance within the first few principal components, suggesting that despite the inherent stochasticity introduced by the generative faculty of time, the system evolves towards a state where a few dominant modes govern its dynamics. This observation aligns with the directive faculty's role in channeling the randomness towards structured complexity.
+The simulation results, as depicted in the provided figures, support the emergent gravity interpretation. The PCA scree plot (Fig.5) demonstrates a concentration of variance within the first few principal components, suggesting that despite the inherent stochasticity introduced by the generative faculty of time, the system evolves towards a state where a few dominant modes govern its dynamics. This observation aligns with the directive faculty's role in channeling the randomness towards structured complexity.
 
-Furthermore, the spatial coordinates derived from the temporal network (Image 4) exhibit a non-uniform distribution, with particles clustering in specific regions. This clustering behavior is consistent with the concept of particles being attracted to regions of higher energy density, where the time flow rate has been modulated to a greater degree by the adaptive faculty of time.
+Furthermore, the spatial coordinates derived from the temporal network (Fig.4.) exhibit a non-uniform distribution, with particles clustering in specific regions. This clustering behavior is consistent with the concept of particles being attracted to regions of higher energy density, where the time flow rate has been modulated to a greater degree by the adaptive faculty of time.
 
 The simulation results provide compelling evidence for the emergence of gravitational effects from the intrinsic temporal dynamics proposed by the Active Time Hypothesis. The ATH framework offers a novel perspective on the nature of gravity, suggesting that it may arise as a consequence of time's active role in shaping the evolution of the universe. These findings highlight the potential of ATH to bridge the gap between quantum mechanics and general relativity, offering a unified understanding of gravity based on the fundamental properties of time itself.
 
-#### 5. Conclusions
+## 5. Conclusions
 
 The Active Time Hypothesis (ATH) offers a transformative perspective on the nature of time, proposing that time possesses intrinsic properties that actively shape the dynamics and evolution of the universe. Through a combination of theoretical analysis and computational simulations, this article explores the implications of ATH and its potential to unify quantum mechanics and fundamental physics.
 

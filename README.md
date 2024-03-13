@@ -53,6 +53,7 @@ The integration of theoretical and computational approaches allows for an examin
 ### 2.1. **Defining Key Terminology**
 
 **Intrinsic Time**: The inherent essence of time, containing innate properties of generation, direction, and adaptation. Intrinsic time dynamically influences physical processes through unpredictability and capacity for change.
+
 **Extrinsic Time**: The observable progression of events or state changes in physical systems. It manifests as the perception of time’s flow via evolution of systems and clock ticking.
 
 The **Generative Faculty** of time refers to its capacity to spontaneously induce fluctuations, perturbations, and transformations. This aligns with the unpredictable nature of quantum events, indicating a connection between time and the quantum realm.
